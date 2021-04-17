@@ -1,1 +1,1 @@
-# Discord_Auto_Msg
+# It's a template, you can use in different projects
